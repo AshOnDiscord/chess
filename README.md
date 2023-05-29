@@ -2,7 +2,7 @@
 
 ## Todo
 
-- [ ] En Passant
+- [x] En Passant
 - [ ] Castle
 - [ ] Check
 - [ ] Checkmate
